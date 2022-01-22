@@ -9,6 +9,7 @@ Light weight CLI Based Password Manager To Store Your Important Password.
 2. `apt install python`
 3. `pip install jsons`
 4. `git clone https://github.com/Amitgajare2/passsave`
+5. `cd passsave`
 
 Run Command.
 
