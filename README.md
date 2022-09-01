@@ -17,6 +17,8 @@ Run Command.
 python passsave.py
 ```
 
+Download EXE for windows
+https://passsave-2ca7d.web.app/
 ## Feedback
 If you have any feedback, please reach out to us at amitgajre7083@gmail.com
 
